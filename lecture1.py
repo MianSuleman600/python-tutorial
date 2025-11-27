@@ -115,6 +115,12 @@ del(x)
 # while (n := len(stack)) > 0:
 #     print(stack.pop())
 
+# Python ternary operator
+
+# value_if_true if condition else value_if_false
+#age = 18
+#status = "Adult" if age >= 18 else "Minor"
+
 # Unit Converter
 print("--------This is unit converter program----- ")
 
