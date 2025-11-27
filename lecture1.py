@@ -48,6 +48,20 @@ del(x)
 #else:
 #    print("hello world")
 
+# MEMBERSHIP OPERATORS -> in and not in
+
+#a = 10 
+#b = 20 
+
+#my_list = [1,2,3,4,5]
+
+#print(a in my_list)
+#print(b not in my_list )
+
+
+
+
+
 
 # Find BMI 
 
