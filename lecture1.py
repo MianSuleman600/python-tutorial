@@ -49,6 +49,7 @@ del(x)
 #    print("hello world")
 
 # MEMBERSHIP OPERATORS -> in and not in
+# this checks if a value is present in a sequence (like a list, tuple, or string) or not
 
 #a = 10 
 #b = 20 
